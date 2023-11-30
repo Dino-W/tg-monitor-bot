@@ -73,4 +73,4 @@ if (newContent.includes("Out of memory:")) {
 > 初次啟動時如果目標文件內有包含警示文字也會先通知一次
 
 如果有偵測到目標訊息會顯示下列通知:  
-![BOT通知圖片](http://uat-apidb.musense.tw/home/saved_image/content/imagefile-1701168095714.png "telegram alert範例.")
+![BOT通知圖片](./assets/images/bot_sample.png "telegram alert範例.")
